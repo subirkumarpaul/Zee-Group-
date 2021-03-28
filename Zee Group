@@ -52,19 +52,19 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Indian",98.Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="Indian",99.Zee Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8?token=soheliptv01826655778
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHbJdMX60zD9iKv69c8TJpU103h4g1BMKzAQ&usqp=CAU" group-title="Indian",99.Zee Zest HD
-http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8?token=soheliptv01826655778
+http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Indian",100.Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?token=soheliptv01826655778
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Indian",101.Zee Action
-http://cv.khushitv.xyz/channels.php?c=action&e_480p/index=.m3u8?token=soheliptv01826655778
+http://cv.khushitv.xyz/channels.php?c=action&e_480p/index=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU" group-title="Indian",102.Zee Anmol Cinama
-http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8?token=soheliptv01826655778
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Indian",103.Zee Cafe HD
-http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8?token=soheliptv01826655778
+http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
 
-
+http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8
 
 
 
