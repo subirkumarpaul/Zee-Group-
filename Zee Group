@@ -5,6 +5,16 @@ https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 
+#EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",Zee Cinema
+http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema USA
+http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Action
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Hindi",Zee Anmol Cinema
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Hindi",Zee Classic
+http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
 
 
 
