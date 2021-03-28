@@ -1,8 +1,17 @@
+#EXTM3U
+
+#EXTINF:0,And Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+#EXTINF:0,And Pictures SD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
+#EXTINF:0,And Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:0,And Flix SD
 https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHbJdMX60zD9iKv69c8TJpU103h4g1BMKzAQ&usqp=CAU" group-title="Hindi",Zee Zest
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",Zee Cinema
